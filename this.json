@@ -1,0 +1,344 @@
+{
+    "0": {
+        "Name": "TastelessCTF 2020",
+        "Date": "03 Oct., 00:00 UTC \u2014 05 Oct. 2020, 00:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 25.0,
+        "Notes": null,
+        "Notes.1": "112 teams will participate"
+    },
+    "1": {
+        "Name": "Trend Micro CTF 2020 - Raimund Genes Cup - Online Qualifier",
+        "Date": "03 Oct., 04:00 UTC \u2014 04 Oct. 2020, 04:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 22.6,
+        "Notes": null,
+        "Notes.1": "55 teams will participate"
+    },
+    "2": {
+        "Name": "Midnight Sun CTF 2020 Finals",
+        "Date": "03 Oct., 10:00 UTC \u2014 04 Oct. 2020, 10:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "Sweden, Stockholm",
+        "Weight": 37.0,
+        "Notes": null,
+        "Notes.1": "35 teams will participate"
+    },
+    "3": {
+        "Name": "CUCTF 2020",
+        "Date": "03 Oct., 10:00 UTC \u2014 03 Oct. 2020, 18:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "Clemson University, USA",
+        "Weight": 0.0,
+        "Notes": "Academic teams only",
+        "Notes.1": "35 teams will participate"
+    },
+    "4": {
+        "Name": "b01lers CTF bootcamp",
+        "Date": "03 Oct., 13:00 UTC \u2014 05 Oct. 2020, 00:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "65 teams will participate"
+    },
+    "5": {
+        "Name": "M*CTF 2020 Quals",
+        "Date": "03 Oct., 13:00 UTC \u2014 04 Oct. 2020, 13:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "31 teams will participate"
+    },
+    "6": {
+        "Name": "Reply Cyber Security Challenge",
+        "Date": "09 Oct., 17:30 UTC \u2014 10 Oct. 2020, 17:30 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 25.0,
+        "Notes": null,
+        "Notes.1": "36 teams will participate"
+    },
+    "7": {
+        "Name": "DamCTF 2020",
+        "Date": "10 Oct., 00:00 UTC \u2014 12 Oct. 2020, 00:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "9 teams will participate"
+    },
+    "8": {
+        "Name": "spoilersCTF",
+        "Date": "10 Oct., 00:00 UTC \u2014 12 Oct. 2020, 00:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "10 teams will participate"
+    },
+    "9": {
+        "Name": "ISITDTU CTF 2020 Quals",
+        "Date": "10 Oct., 11:00 UTC \u2014 11 Oct. 2020, 11:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "9 teams will participate"
+    },
+    "10": {
+        "Name": "SECCON 2020 Online CTF (Oct 10th, 06:00 - 11th, 06:00 UTC)",
+        "Date": "10 Oct., 21:00 UTC \u2014 11 Oct. 2020, 21:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "10 teams will participate"
+    },
+    "11": {
+        "Name": "Hacktober CTF",
+        "Date": "16 Oct., 14:00 UTC \u2014 18 Oct. 2020, 02:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "17 teams will participate"
+    },
+    "12": {
+        "Name": "N1CTF 2020",
+        "Date": "17 Oct., 00:00 UTC \u2014 19 Oct. 2020, 00:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 36.0,
+        "Notes": null,
+        "Notes.1": "17 teams will participate"
+    },
+    "13": {
+        "Name": "mHackeCTF - Enterprise Edition",
+        "Date": "17 Oct., 12:00 UTC \u2014 17 Oct. 2020, 22:00 UTC",
+        "Format": "Attack-Defense",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "56 teams will participate"
+    },
+    "14": {
+        "Name": "Syskron Security CTF 2020",
+        "Date": "21 Oct., 00:00 UTC \u2014 26 Oct. 2020, 00:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 24.29,
+        "Notes": null,
+        "Notes.1": "0 teams will participate"
+    },
+    "15": {
+        "Name": "Hack.lu CTF 2020",
+        "Date": "23 Oct., 13:37 UTC \u2014 25 Oct. 2020, 13:37 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 87.94,
+        "Notes": null,
+        "Notes.1": "3 teams will participate"
+    },
+    "16": {
+        "Name": "Hack The Vote 2020",
+        "Date": "23 Oct., 23:00 UTC \u2014 25 Oct. 2020, 23:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "25 teams will participate"
+    },
+    "17": {
+        "Name": "MetaCTF CyberGames 2020",
+        "Date": "24 Oct., 12:00 UTC \u2014 25 Oct. 2020, 12:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "5 teams will participate"
+    },
+    "18": {
+        "Name": "Cyber Security Rumble",
+        "Date": "30 Oct., 19:00 UTC \u2014 01 Nov. 2020, 19:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 28.0,
+        "Notes": null,
+        "Notes.1": "14 teams will participate"
+    },
+    "19": {
+        "Name": "KipodAfterFree CTF 2020",
+        "Date": "06 Nov., 17:00 UTC \u2014 08 Nov. 2020, 17:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 24.61,
+        "Notes": null,
+        "Notes.1": "6 teams will participate"
+    },
+    "20": {
+        "Name": "HK Cyber Security New Generation CTF Challenge 2020",
+        "Date": "06 Nov., 18:00 UTC \u2014 08 Nov. 2020, 18:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "0 teams will participate"
+    },
+    "21": {
+        "Name": "PASECA CTF 2020",
+        "Date": "07 Nov., 10:00 UTC \u2014 08 Nov. 2020, 10:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "0 teams will participate"
+    },
+    "22": {
+        "Name": "Sunshine CTF 2020",
+        "Date": "07 Nov., 14:00 UTC \u2014 09 Nov. 2020, 14:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "90 teams will participate"
+    },
+    "23": {
+        "Name": "Balsn CTF 2020",
+        "Date": "14 Nov., 02:00 UTC \u2014 16 Nov. 2020, 02:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 25.0,
+        "Notes": null,
+        "Notes.1": "9 teams will participate"
+    },
+    "24": {
+        "Name": "Hack For Troops",
+        "Date": "14 Nov., 05:00 UTC \u2014 15 Nov. 2020, 04:49 UTC",
+        "Format": "Hack quest",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "0 teams will participate"
+    },
+    "25": {
+        "Name": "m0leCon CTF 2020",
+        "Date": "14 Nov., 20:00 UTC \u2014 15 Nov. 2020, 20:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "1 teams will participate"
+    },
+    "26": {
+        "Name": "Affinity CTF Lite (Junior/Beginner)",
+        "Date": "16 Nov., 18:00 UTC \u2014 17 Nov. 2020, 18:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "0 teams will participate"
+    },
+    "27": {
+        "Name": "Dragon CTF 2020",
+        "Date": "20 Nov., 21:00 UTC \u2014 22 Nov. 2020, 21:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 98.0,
+        "Notes": null,
+        "Notes.1": "24 teams will participate"
+    },
+    "28": {
+        "Name": "HITCON CTF 2020",
+        "Date": "28 Nov., 02:00 UTC \u2014 29 Nov. 2020, 14:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "3 teams will participate"
+    },
+    "29": {
+        "Name": "justCTF 2020",
+        "Date": "28 Nov., 06:00 UTC \u2014 29 Nov. 2020, 19:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 24.85,
+        "Notes": null,
+        "Notes.1": "24 teams will participate"
+    },
+    "30": {
+        "Name": "Shakti CTF",
+        "Date": "04 Dec., 12:30 UTC \u2014 05 Dec. 2020, 12:30 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "1 teams will participate"
+    },
+    "31": {
+        "Name": "pbctf 2020",
+        "Date": "05 Dec., 00:00 UTC \u2014 06 Dec. 2020, 23:59 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "3 teams will participate"
+    },
+    "32": {
+        "Name": "ASIS CTF Finals 2020",
+        "Date": "11 Dec., 15:00 UTC \u2014 13 Dec. 2020, 15:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 85.81,
+        "Notes": null,
+        "Notes.1": "5 teams will participate"
+    },
+    "33": {
+        "Name": "HackTM CTF Finals 2020",
+        "Date": "12 Dec., 07:00 UTC \u2014 14 Dec. 2020, 06:59 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "0 teams will participate"
+    },
+    "34": {
+        "Name": "#kksctf open 2020",
+        "Date": "12 Dec., 09:00 UTC \u2014 13 Dec. 2020, 09:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 25.0,
+        "Notes": null,
+        "Notes.1": "7 teams will participate"
+    },
+    "35": {
+        "Name": "hxp CTF 2020",
+        "Date": "18 Dec., 15:00 UTC \u2014 20 Dec. 2020, 15:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 94.0,
+        "Notes": null,
+        "Notes.1": "10 teams will participate"
+    },
+    "36": {
+        "Name": "VULNCON CTF 2020",
+        "Date": "19 Dec., 10:30 UTC \u2014 20 Dec. 2020, 10:30 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "0 teams will participate"
+    },
+    "37": {
+        "Name": "WeCTF 2020+",
+        "Date": "19 Dec., 20:00 UTC \u2014 20 Dec. 2020, 08:00 UTC",
+        "Format": "Jeopardy",
+        "Location": "On-line",
+        "Weight": 0.0,
+        "Notes": null,
+        "Notes.1": "15 teams will participate"
+    }
+}
